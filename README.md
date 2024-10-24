@@ -8,7 +8,7 @@ Hello! I'm Zoom. On most platforms my username is zoomll9833. On GitHub I'm Zoom
 
 I got my start on Scratch where I learnt basic coding logic.
 
-I then moved on using Lua in Roblox.
+I then moved on to using Lua in Roblox.
 
 I have now begun to branch out into general programming.
 
