@@ -1,16 +1,25 @@
-## Hi there 👋
+## Welcome to My Profile! 😁
 
-<!--
-**Zoomll/Zoomll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
 
-Here are some ideas to get you started:
+Hello! I'm Zoom. On most platforms my username is zoomll9833. On GitHub I'm Zoomll.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Long Story Short...
+
+I got my start on Scratch where I learnt basic coding logic.
+
+I then moved on using Lua in Roblox.
+
+I have now begun to branch out into general programming.
+
+### What I'm Learning Now and In the Future
+
+I'm currently learning Scala and dabbling my toes into web development.
+
+I also want to learn other JVM languages like Kotlin, Groovy, and Java.
+
+The things I'm scared to learn are:
+JavaScript: Wayyyy too many libraries...
+Java: What the heck is a public static void main string args
+
+I was never really a coffee person...
